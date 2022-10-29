@@ -1,0 +1,334 @@
+/* Run 1*/
+.rod-bloc-one {
+    height: 116px;
+    background-color: rgba(250, 250, 250, 1);
+    display: flex;
+    justify-content: center;
+
+}
+
+.san-blocOne-one {
+    width: 420px;
+    height: 116px;
+    display: flex;
+    justify-content: flex-start ;
+    align-items: center;
+}
+
+.san-blocOneOne-logo {
+    position: relative;
+    left: 80px;
+    width: 53px;
+    height: 39px;
+    background-image: url(../image/logo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}
+
+.san-blocOne-two {
+    width: 600px;
+    height: 116px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.san-blocOne-tree {
+    width: 420px;
+    height: 116px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;    
+}
+
+.san-blocOneTree-gift {
+    position: relative;
+    left: 101px;
+    width: 150px;
+    height: 43.5px;
+    border: 1px solid #F7941E;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* end 1 */
+
+/* Run 2*/
+.rod-bloc-two {
+    height: 700px;
+    background-color: rgba(241, 241, 242, 1);
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.san-blocTwo-text {
+    width: 720px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.san-blocTwoText-divtext {
+    width: 200px;
+    height: 60px;
+    background-color: rgba(247, 148, 30, 1);
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    position: relative;
+    top: 200px;
+    right: 81px;
+    border-radius: 5px;
+}
+
+.san-blocTwo-image {
+    background-image: url(../image/Background.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 720px;
+    height: 700px;
+}
+/* end 2*/
+/* Run 3*/
+.rod-bloc-three {
+    height: 600px;
+    background-color: rgba(241, 241, 242, 1);
+    display: flex;
+    justify-content: center;
+
+}
+
+.san-blocTree-one {
+    width: 720px;
+    height: 600px;
+    background-image: url(../image/Media\ Background.jpg) ;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transform: rotate(-0.2deg);
+
+}
+
+.san-blocTree-two {
+    width: 720px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.san-blocTreeTwo-divtext  {
+    width: 200px;
+    height: 60px;
+    background-color:   rgba(241, 241, 242, 1);
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    position: relative;
+    right: 180px;
+    border-radius: 5px;
+    border: 1px solid #F7941E;
+}
+
+/* end 3*/
+
+/* Run 4*/
+.rod-bloc-four {
+    height: 820px;
+    background-color: rgba(255, 255, 255, 1);
+
+}
+
+.san-blocFour-one {
+    height: 247px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.san-blocFour-two {
+    display: flex;
+    justify-content: center;
+}
+
+
+.ocasions-minen {
+    width: 270px;
+    height: 436px;
+    margin: 0 15px;
+}
+
+
+
+.image-one {
+    background-image: url(../image/birthday.jpg) ;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 270px;
+    height: 270px;
+}
+
+.image-two {
+    background-image: url(../image/anniversary.jpg) ;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 270px;
+    height: 270px;
+}
+
+.image-three {
+    background-image: url(../image/valentines.jpg) ;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 270px;
+    height: 270px;
+}
+
+.image-four {
+    background-image: url(../image/christmas.jpg) ;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 270px;
+    height: 270px;
+}
+
+/* end 4*/
+
+/* Run 5*/
+.rod-bloc-five {
+    height: 240px;
+    background-color: rgba(247, 148, 30, 1);
+    display: flex;
+    justify-content: center;
+}
+
+.san-blocFive-one{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.san-blocFive-two{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.san-blocFiveTwo-giftone{
+    background-color:  rgba(35, 31, 32, 1);
+    border: 1px solid rgba(35, 31, 32, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    margin-right: 8px;
+
+}
+
+.san-blocFiveTwo-gifttwo{
+    border: 1px solid rgba(35, 31, 32, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    margin-left: 8px;
+}
+
+
+/* end 5*/
+
+/* Run 6*/
+.rod-bloc-six {
+    height: 1020px;
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.san-blocSix-divone{
+    margin-top: 72px;
+    display: flex;
+    width: 1170px;
+    height: 370px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.san-blocSixDivone-one {
+    width: 400px;
+    height: 370px;
+    background-image: url(../image/Media.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: rgba(35, 31, 32, 1);
+
+
+
+}
+
+.san-blocSixDivone-two { 
+    width: 770px;
+    height: 370px;
+    background: rgba(35, 31, 32, 1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+
+
+}
+
+
+.san-blocSix-divtwo {
+    width: 1170px;
+    height: 290px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.san-blocSixDivtwo-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+/* end 6 */
+
+
+/* Run 7*/
+.rod-bloc-seven {
+    height: 410px;
+    background-color: rgba(250, 250, 250, 1);
+
+}
+
+/* end 7*/
+

@@ -1,0 +1,215 @@
+/* .san-blocOne-two run*/
+.san-bloctwo-home {
+    font-family: 'Gilroy';
+}
+
+.san-bloctwo-about {
+    font-family: 'Gilroy';
+}
+
+.san-bloctwo-services {
+    font-family: 'Gilroy';
+}
+
+.san-bloctwo-blogs {
+    font-family: 'Gilroy';
+}
+
+/* end */
+
+/* .san-blocOneTree-gift run */
+.san-blocOneTreeGift-text{
+    color: rgba(247, 148, 30, 1);
+    font-family: 'Gilroy';
+    text-transform: uppercase;
+}
+/* end */
+
+/* san-blocTwo-text run */
+
+.san-blocTwoText-text-one {
+    font-family: 'Gilroy';
+    font-size: 56px;
+    line-height: 68.6px;
+    white-space: pre;
+    position: relative;
+    top: 100px;
+    font-weight: 800;
+}
+
+.san-blocTwoText-text-two {
+    font-family: 'Gilroy';
+    font-size: 20px;
+    line-height: 28.13px;
+    white-space: pre;
+    position: relative;
+    top: 136px;
+
+}
+
+/* end */
+
+/* san-blocTwoText-divtext run */
+.san-blocTwoTextDivtext-text{
+    color:  rgba(255, 255, 255, 1);
+    font-family: 'Gilroy';
+    text-transform: uppercase;
+
+
+}
+/* end */
+
+/* san-blocTree-two run */
+.san-blocTreeTwo-one{
+    font-family: 'Gilroy';
+    font-size: 32px;
+    line-height: 45px;
+    position: relative;
+    right: 178px;
+}
+
+.san-blocTreeTwo-two{
+    margin-top: 23px;
+    margin-bottom: 35px;
+    font-family: 'Gilroy';
+    font-size: 20px;
+    line-height: 28.13px;
+    white-space: pre;
+    position: relative;
+    right: 57px;
+}
+/* end */
+
+/* san-blocTreeTwo-divtext run*/
+
+.san-blocTreeTextDivtext-text{
+    color: rgba(247, 148, 30, 1);
+    font-family: 'Gilroy';
+    text-transform: uppercase;
+
+ 
+}
+/* end */
+
+
+
+/* san-blocFour-one run */
+
+.san-blocFourOne-textone {
+    position: relative;
+    bottom:  24px;
+    font-size: 32px;
+    text-transform: uppercase;
+    line-height: 38.4px;
+    font-family: 'Gilroy';
+}
+
+.san-blocFourOne-texttwo {
+    position: relative;
+    font-size: 24px;
+    line-height: 24.47px;
+    font-family: 'Gilroy';
+}
+
+/* end */
+
+/* ocasions-minen-min run */
+.ocasions-minen-mintext-one {
+    font-size: 24px;
+    font-family: 'Gilroy';
+    position: relative;
+    top: 24px;
+    left: 24px;
+}
+
+.ocasions-minen-mintext-two {
+    font-family: 'Gilroy';
+    font-size: 20px;
+    position: relative;
+    top: 95px;
+    left: 24px;
+}
+/* end */
+
+/* san-blocFive-one run */
+.san-blocFivOne-textone{
+    color:  rgba(0, 0, 0, 1);
+    font-size: 32px;
+    line-height: 45px;
+    font-weight: bold;
+    font-family: 'Gilroy';
+}
+
+
+.san-blocFivOne-texttwo{
+    font-size: 32px;
+    line-height: 45px;
+    font-family: 'Gilroy';
+}
+
+/* end */
+
+/* san-blocFive-two run */
+
+.san-blocFiveTwoGift-textone{
+    font-family: 'Gilroy';
+    color:  rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+
+}
+
+
+.san-blocOneTreeGift-texttwo {
+    color: rgba(35, 31, 32, 1);
+    font-family: 'Gilroy';
+    text-transform: uppercase;
+}
+
+.san-blocSixDivoneOne-textthree{
+    color: rgba(35, 31, 32, 1);
+    font-family: 'Gilroy';
+    text-transform: uppercase;
+}
+/* end */
+
+
+
+
+/* rod-bloc-six run  */
+
+
+.san-blocSixDivoneOne-textone{
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Gilroy';
+
+
+}
+.san-blocSixDivoneOne-texttwo{
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Gilroy';
+    text-transform: uppercase;
+
+}
+.san-blocSixDivoneOne-textthree{
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Gilroy';
+
+}
+
+.san-blocSixDivtwoBox-textone {
+    font-family: 'Gilroy';
+    font-weight: bold;
+
+}
+
+.san-blocSixDivtwoBox-textotwo {
+    font-family: 'Gilroy';
+
+}
+
+.san-blocSixDivtwoBox-textothree {
+    font-family: 'Gilroy';
+
+}
+
+/* end */
