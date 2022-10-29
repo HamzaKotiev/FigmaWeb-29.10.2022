@@ -51,6 +51,52 @@
 
 /* end  */
 
+/* rod-bloc-seven run */
+
+.rod-bloc-seven {
+    height: 410px;
+}
+
+.san-blocSeven-one {
+    width: 614px;
+    height: 39px;
+}
+
+.san-blocSeven-two {
+    width: 1000px;
+    height: 0;
+    border: 1px solid #000000;
+    background-color: #000000 ;
+}
+
+.san-blocSevenOne-logo {
+    width: 53px;
+    height: 39px;
+    margin: 0 121px;
+
+}
+
+
+.san-blocSevenOne-textone {
+    right: 20px;
+}
+
+
+.san-blocSevenOne-texttwo {
+
+}
+
+.san-blocSevenOne-texttree {
+    
+}
+
+.san-blocSevenOne-textfour {
+    left:  20px;
+    
+}
+
+
+
 
 
 /*  end */

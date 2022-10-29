@@ -34,7 +34,7 @@
     white-space: pre;
     position: relative;
     top: 100px;
-    font-weight: 800;
+    font-weight: 1200;
 }
 
 .san-blocTwoText-text-two {
@@ -198,18 +198,45 @@
 
 .san-blocSixDivtwoBox-textone {
     font-family: 'Gilroy';
-    font-weight: bold;
+    font-weight: 900;
+    white-space: pre;
 
 }
 
 .san-blocSixDivtwoBox-textotwo {
     font-family: 'Gilroy';
-
+    white-space: pre;
 }
 
 .san-blocSixDivtwoBox-textothree {
     font-family: 'Gilroy';
+    white-space: pre;
+}
 
+/* end */
+
+/* rod-bloc-seven Run */
+.san-blocSevenOne-textone {
+    position: relative;
+    font-family: 'Gilroy';
+    font-weight: 600;
+}
+
+
+.san-blocSevenOne-texttwo {
+    font-family: 'Gilroy';
+    font-weight: 600;
+}
+
+.san-blocSevenOne-texttree {
+    font-family: 'Gilroy';
+    font-weight: 600;
+}
+
+.san-blocSevenOne-textfour {
+    position: relative;
+    font-family: 'Gilroy';
+    font-weight: 600;
 }
 
 /* end */
