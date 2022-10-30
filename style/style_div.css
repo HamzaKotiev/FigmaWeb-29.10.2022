@@ -1,6 +1,5 @@
 /* Run 1*/
 .rod-bloc-one {
-    height: 116px;
     background-color: rgba(250, 250, 250, 1);
     display: flex;
     justify-content: center;
@@ -8,8 +7,6 @@
 }
 
 .san-blocOne-one {
-    width: 420px;
-    height: 116px;
     display: flex;
     justify-content: flex-start ;
     align-items: center;
@@ -17,9 +14,6 @@
 
 .san-blocOneOne-logo {
     position: relative;
-    left: 80px;
-    width: 53px;
-    height: 39px;
     background-image: url(../image/logo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -28,16 +22,12 @@
 }
 
 .san-blocOne-two {
-    width: 600px;
-    height: 116px;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 
 .san-blocOne-tree {
-    width: 420px;
-    height: 116px;
     display: flex;
     justify-content: space-around;
     align-items: center;    
@@ -45,9 +35,6 @@
 
 .san-blocOneTree-gift {
     position: relative;
-    left: 101px;
-    width: 150px;
-    height: 43.5px;
     border: 1px solid #F7941E;
     box-sizing: border-box;
     display: flex;
@@ -60,7 +47,7 @@
 
 /* Run 2*/
 .rod-bloc-two {
-    height: 700px;
+
     background-color: rgba(241, 241, 242, 1);
     display: flex;
     justify-content: center;
@@ -69,23 +56,20 @@
 }
 
 .san-blocTwo-text {
-    width: 720px;
-    height: 700px;
+
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 .san-blocTwoText-divtext {
-    width: 200px;
-    height: 60px;
+
     background-color: rgba(247, 148, 30, 1);
     display: flex;
     justify-content: center ;
     align-items: center;
     position: relative;
-    top: 200px;
-    right: 81px;
+
     border-radius: 5px;
 }
 
@@ -94,13 +78,12 @@
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    width: 720px;
-    height: 700px;
+
 }
 /* end 2*/
 /* Run 3*/
 .rod-bloc-three {
-    height: 600px;
+
     background-color: rgba(241, 241, 242, 1);
     display: flex;
     justify-content: center;
@@ -108,8 +91,7 @@
 }
 
 .san-blocTree-one {
-    width: 720px;
-    height: 600px;
+
     background-image: url(../image/Media\ Background.jpg) ;
     background-size: cover;
     background-position: center center;
@@ -119,8 +101,7 @@
 }
 
 .san-blocTree-two {
-    width: 720px;
-    height: 600px;
+
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -128,14 +109,13 @@
 }
 
 .san-blocTreeTwo-divtext  {
-    width: 200px;
-    height: 60px;
+
     background-color:   rgba(241, 241, 242, 1);
     display: flex;
     justify-content: center ;
     align-items: center;
     position: relative;
-    right: 180px;
+
     border-radius: 5px;
     border: 1px solid #F7941E;
 }
@@ -144,13 +124,13 @@
 
 /* Run 4*/
 .rod-bloc-four {
-    height: 820px;
+
     background-color: rgba(255, 255, 255, 1);
 
 }
 
 .san-blocFour-one {
-    height: 247px;
+
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -164,9 +144,7 @@
 
 
 .ocasions-minen {
-    width: 270px;
-    height: 436px;
-    margin: 0 15px;
+
 }
 
 
@@ -176,8 +154,7 @@
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    width: 270px;
-    height: 270px;
+
 }
 
 .image-two {
@@ -185,8 +162,7 @@
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    width: 270px;
-    height: 270px;
+
 }
 
 .image-three {
@@ -194,8 +170,7 @@
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    width: 270px;
-    height: 270px;
+
 }
 
 .image-four {
@@ -203,8 +178,7 @@
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    width: 270px;
-    height: 270px;
+
 }
 
 /* end 4*/
@@ -347,5 +321,47 @@
     background-repeat: no-repeat;
 }
 
+.san-blocSeven-three {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+
+.san-blocSevenThree-one {
+    background-image: url(../image/Vector.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}
+
+.san-blocSevenThree-two {
+    background-image: url(../image/Twiter.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.san-blocSevenThree-three {
+    background-image: url(../image/Vector3.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.san-blocSevenThree-four {
+    background-image: url(../image/Vector4.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.san-blocSevenThree-five {
+    background-image: url(../image/Vector5.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
 /* end 7*/
 

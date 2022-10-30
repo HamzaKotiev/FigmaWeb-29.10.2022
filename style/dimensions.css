@@ -1,5 +1,281 @@
 /* ВСЕ РАЗМЕРЫ САЙТА СДЕЛАНЫ ДЛЯ УДОБСТВА МОЕГО ) */
 
+/* Run 1*/
+.rod-bloc-one {
+    height: 116px;
+    width: 1440px;
+
+}
+
+.san-blocOne-one {
+    width: 420px;
+    height: 116px;
+
+
+}
+
+.san-blocOneOne-logo {
+
+    left: 80px;
+    width: 53px;
+    height: 39px;
+
+
+}
+
+.san-blocOne-two {
+    width: 600px;
+    height: 116px;
+
+}
+
+.san-blocOne-tree {
+    width: 420px;
+    height: 116px;
+   
+}
+
+.san-blocOneTree-gift {
+
+    left: 101px;
+    width: 150px;
+    height: 43.5px;
+
+}
+
+/* end 1 */
+/* Run 2*/
+.rod-bloc-two {
+    height: 700px;
+    width: 1440px;
+
+
+}
+
+.san-blocTwo-text {
+    width: 720px;
+    height: 700px;
+
+}
+
+.san-blocTwoText-divtext {
+    width: 200px;
+    height: 60px;
+
+    top: 200px;
+    right: 81px;
+    border-radius: 5px;
+}
+
+.san-blocTwo-image {
+
+    width: 720px;
+    height: 700px;
+}
+/* end 2*/
+
+/* Run 3*/
+.rod-bloc-three {
+    height: 600px;
+    width: 1440px;
+}
+
+.san-blocTree-one {
+    width: 720px;
+    height: 600px;
+
+
+}
+
+.san-blocTree-two {
+    width: 720px;
+    height: 600px;
+
+}
+
+.san-blocTreeTwo-divtext  {
+    width: 200px;
+    height: 60px;
+    right: 180px;
+
+}
+
+/* end 3*/
+
+/* Run 4*/
+.rod-bloc-four {
+    height: 820px;
+    width: 1440px;
+
+}
+
+.san-blocFour-one {
+    height: 247px;
+
+}
+
+.san-blocFour-two {
+
+}
+
+
+.ocasions-minen {
+    width: 270px;
+    height: 436px;
+    margin: 0 15px;
+}
+
+
+
+.image-one {
+
+    width: 270px;
+    height: 270px;
+}
+
+.image-two {
+
+    width: 270px;
+    height: 270px;
+}
+
+.image-three {
+
+    width: 270px;
+    height: 270px;
+}
+
+.image-four {
+
+    width: 270px;
+    height: 270px;
+}
+
+/* end 4*/
+
+/* Run 5*/
+.rod-bloc-five {
+    height: 240px;
+    width: 1440px;
+}
+
+.san-blocFive-one{
+    width: 50%;
+
+}
+
+.san-blocFive-two{
+    width: 50%;
+
+}
+
+.san-blocFiveTwo-giftone{
+
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    margin-right: 8px;
+
+}
+
+.san-blocFiveTwo-gifttwo{
+
+    width: 200px;
+    height: 50px;
+
+    margin-left: 8px;
+}
+
+
+/* end 5*/
+
+/* Run 6*/
+.rod-bloc-six {
+    height: 1020px;
+    width: 1440px;
+}
+
+.san-blocSix-divone{
+    margin-top: 72px;
+
+    width: 1170px;
+    height: 370px;
+
+
+}
+
+.san-blocSixDivone-one {
+    width: 400px;
+    height: 370px;
+
+
+
+
+}
+
+.san-blocSixDivone-two { 
+    width: 770px;
+    height: 370px;
+
+    
+
+
+}
+
+
+.san-blocSix-divtwo {
+    width: 1170px;
+    height: 290px;
+
+
+}
+
+
+/* emd */
+
+/* Run 7*/
+.rod-bloc-seven {
+    width: 1440px;
+
+}
+
+.san-blocSeven-one {
+
+    bottom: 43px;
+}
+
+.san-blocSevenOne-logo {
+
+}
+
+.san-blocSeven-three {
+
+
+}
+
+
+.san-blocSevenThree-one {
+
+
+}
+
+.san-blocSevenThree-two {
+
+}
+.san-blocSevenThree-three {
+
+}
+
+.san-blocSevenThree-four {
+
+}
+
+.san-blocSevenThree-five {
+
+}
+/* end 7*/
+
+
 
 /* rod-bloc-six Run */
 
@@ -23,11 +299,11 @@
 
 }
 
-.san-blocSixDivtwoBox-textone {}
+/* .san-blocSixDivtwoBox-textone {}
 
 .san-blocSixDivtwoBox-textotwo {}
 
-.san-blocSixDivtwoBox-textothree {}
+.san-blocSixDivtwoBox-textothree {} */
 
 
 /* end */
@@ -69,6 +345,10 @@
     background-color: #000000 ;
 }
 
+.san-blocSeven-three {
+    height: 142px;
+}
+
 .san-blocSevenOne-logo {
     width: 53px;
     height: 39px;
@@ -93,6 +373,31 @@
 .san-blocSevenOne-textfour {
     left:  20px;
     
+}
+
+
+.san-blocSevenThree-one {
+    width: 38px;
+    height: 38px;
+}
+
+.san-blocSevenThree-two {
+    width: 38px;
+    height: 38px;
+}
+.san-blocSevenThree-three {
+    width: 38px;
+    height: 38px;
+}
+
+.san-blocSevenThree-four {
+    width: 38px;
+    height: 38px;
+}
+
+.san-blocSevenThree-five {
+    width: 38px;
+    height: 38px;
 }
 
 
