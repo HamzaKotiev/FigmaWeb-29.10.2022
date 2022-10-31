@@ -3,7 +3,10 @@
     padding: 0;
 }
 
-
+body {
+    height: 3912px;
+    width: 100vw;
+}
 /* fond Gilroy run*/
 .g {
     font-size: 18px;

@@ -3,12 +3,12 @@
 /* Run 1*/
 .rod-bloc-one {
     height: 116px;
-    width: 1440px;
+    width: 100%;
 
 }
 
 .san-blocOne-one {
-    width: 420px;
+    width: 30%;
     height: 116px;
 
 
@@ -24,13 +24,13 @@
 }
 
 .san-blocOne-two {
-    width: 600px;
+    width: 40%;
     height: 116px;
 
 }
 
 .san-blocOne-tree {
-    width: 420px;
+    width: 30%;
     height: 116px;
    
 }
@@ -46,15 +46,15 @@
 /* end 1 */
 /* Run 2*/
 .rod-bloc-two {
-    height: 700px;
-    width: 1440px;
+    height: 18%;
+    width: 100%;
 
 
 }
 
 .san-blocTwo-text {
-    width: 720px;
-    height: 700px;
+    width: 50%;
+    height: 100%;
 
 }
 
@@ -69,27 +69,27 @@
 
 .san-blocTwo-image {
 
-    width: 720px;
-    height: 700px;
+    width: 50%;
+    height: 100%;
 }
 /* end 2*/
 
 /* Run 3*/
 .rod-bloc-three {
-    height: 600px;
-    width: 1440px;
+    height: 15.5%;
+    width: 100%;
 }
 
 .san-blocTree-one {
-    width: 720px;
-    height: 600px;
+    width: 50%;
+    height: 100%;
 
 
 }
 
 .san-blocTree-two {
-    width: 720px;
-    height: 600px;
+    width: 50%;
+    height: 100%;
 
 }
 
@@ -105,7 +105,7 @@
 /* Run 4*/
 .rod-bloc-four {
     height: 820px;
-    width: 1440px;
+    width: 100%;
 
 }
 
@@ -156,7 +156,7 @@
 /* Run 5*/
 .rod-bloc-five {
     height: 240px;
-    width: 1440px;
+    width: 100%;
 }
 
 .san-blocFive-one{
@@ -191,14 +191,14 @@
 
 /* Run 6*/
 .rod-bloc-six {
-    height: 1020px;
-    width: 1440px;
+    height: 26%;
+    width: 100%;
 }
 
 .san-blocSix-divone{
     margin-top: 72px;
 
-    width: 1170px;
+    width: 80%;
     height: 370px;
 
 
@@ -224,7 +224,7 @@
 
 
 .san-blocSix-divtwo {
-    width: 1170px;
+    width: 80%;
     height: 290px;
 
 
@@ -235,7 +235,7 @@
 
 /* Run 7*/
 .rod-bloc-seven {
-    width: 1440px;
+    width: 100%;
 
 }
 
